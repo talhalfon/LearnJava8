@@ -1,1 +1,1 @@
-# LearnJava8
+# Learn Java 8
